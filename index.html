@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Jakub Kowalski — photography portfolio. @jakyb11">
+  <title>Jakub Kowalski — Photography</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="logo" href="#top">JAKUB KOWALSKI <span>/</span> @JAKYB11</a>
+    <nav class="filters" aria-label="Filter photos">
+      <button class="filter active" data-filter="all">ALL</button><button class="filter" data-filter="people">PEOPLE</button><button class="filter" data-filter="places">PLACES</button><button class="filter" data-filter="fashion">FASHION</button><button class="filter" data-filter="other">OTHER</button>
+    </nav>
+    <a class="instagram" href="https://instagram.com/jakyb11" target="_blank" rel="noreferrer">INSTAGRAM ↗</a>
+    <button class="menu" aria-label="Open category menu" aria-expanded="false">☰</button>
+  </header>
+  <main id="top">
+    <section class="title-page" aria-label="Introduction">
+      <img class="title-image" src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=2200&q=90" alt="Sunlit ocean and rugged coastline">
+      <div class="title-overlay"></div>
+      <div class="title-topline"><span>PHOTOGRAPHER · POLAND</span><span>AVAILABLE WORLDWIDE</span></div>
+      <div class="title-copy"><p class="title-kicker">VISUAL PORTFOLIO / 2026</p><h1>JAKUB<br>KOWALSKI<span>.</span></h1><p class="handle">@JAKYB11</p></div>
+      <a class="scroll-cue" href="#work"><span></span>SCROLL TO EXPLORE</a>
+      <div class="title-index">01 <i>/</i> SELECTED WORK</div>
+    </section>
+    <section id="work" class="work-section">
+      <div class="gallery-heading"><div><p class="section-kicker">THE ARCHIVE / 01—12</p><h2>Selected <em>frames.</em></h2></div><p class="gallery-note">A collection of people, places<br>and moments worth keeping.</p></div>
+      <div class="gallery" id="gallery" aria-label="Photography gallery"></div>
+      <div class="gallery-bottom"><span>JAKUB KOWALSKI · PHOTOGRAPHY</span><span id="count">00</span></div>
+    </section>
+  </main>
+  <footer class="footer"><span>JAKUB KOWALSKI · PHOTOGRAPHY</span><span>POLAND</span><a href="https://instagram.com/jakyb11" target="_blank" rel="noreferrer">@JAKYB11 ↗</a></footer>
+  <dialog class="viewer" aria-label="Photo viewer"><button class="close" aria-label="Close image">×</button><button class="prev" aria-label="Previous image">←</button><img class="viewer-image" src="" alt=""><button class="next" aria-label="Next image">→</button><div class="viewer-index"></div></dialog>
+  <script src="script.js"></script>
+</body></html>

@@ -1,0 +1,64 @@
+{
+  "photos": [
+    {
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Portrait in natural light",
+      "category": "people"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Ocean and coastline",
+      "category": "places"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Fashion editorial",
+      "category": "fashion"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Coastal village",
+      "category": "places"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Portrait of a man",
+      "category": "people"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=85",
+      "alt": "Mountain lake landscape",
+      "category": "places"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Minimal interior in daylight",
+      "category": "other"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Portrait of a woman",
+      "category": "people"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Street style",
+      "category": "fashion"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=85",
+      "alt": "Mountain peaks",
+      "category": "places"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Still life",
+      "category": "other"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Close-up portrait",
+      "category": "people"
+    }
+  ]
+}
