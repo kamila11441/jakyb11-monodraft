@@ -1,9 +1,8 @@
+
 backend:
   name: github
-  repo: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY
+  repo: kamila11441/jakyb11-monodraft
   branch: main
-  # Configure a GitHub OAuth provider / OAuth proxy for secure sign-in before launch.
-  # For a simpler hosted setup, deploy on Netlify and configure Git Gateway.
 
 media_folder: "images"
 public_folder: "/images"
